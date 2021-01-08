@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f346997a.chunk.css",
+    "main.js": "/static/js/main.3e6a01c5.chunk.js",
+    "main.js.map": "/static/js/main.3e6a01c5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7bae030a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7bae030a.js.map",
+    "static/js/2.ab9e64a9.chunk.js": "/static/js/2.ab9e64a9.chunk.js",
+    "static/js/2.ab9e64a9.chunk.js.map": "/static/js/2.ab9e64a9.chunk.js.map",
+    "static/js/3.991123af.chunk.js": "/static/js/3.991123af.chunk.js",
+    "static/js/3.991123af.chunk.js.map": "/static/js/3.991123af.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.f346997a.chunk.css.map": "/static/css/main.f346997a.chunk.css.map",
+    "static/js/2.ab9e64a9.chunk.js.LICENSE.txt": "/static/js/2.ab9e64a9.chunk.js.LICENSE.txt",
+    "static/media/phone.abae07cf.svg": "/static/media/phone.abae07cf.svg",
+    "static/media/thanks1.72ab29be.svg": "/static/media/thanks1.72ab29be.svg",
+    "static/media/thanks2.eca1a015.svg": "/static/media/thanks2.eca1a015.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7bae030a.js",
+    "static/js/2.ab9e64a9.chunk.js",
+    "static/css/main.f346997a.chunk.css",
+    "static/js/main.3e6a01c5.chunk.js"
+  ]
+}
